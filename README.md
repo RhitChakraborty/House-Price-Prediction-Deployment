@@ -11,3 +11,5 @@ Predicting house prices is useful to identify fruitful investments, or to determ
 ### What is the objective of the machine learning model?
 
 We aim to minimise the difference between the real price and the price estimated by our model. We will evaluate model performance using the mean squared error (mse) and the root squared of the mean squared error (rmse).
+
+We will use the house price dataset available on [Kaggle.com](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data)
